@@ -32,7 +32,7 @@ const PetGle = () => {
 
       <header className="flex justify-between items-center px-6 py-5 shadow-lg relative z-0">
         <div className="text-4xl font-bold">
-          <a href="/">Pet<span className="text-blue-500">Gle</span></a>
+          <Link href="/">Pet<span className="text-blue-500">Gle</span></Link>
         </div>
         <div className="hidden md:flex">
           <nav>
